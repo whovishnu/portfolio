@@ -33,4 +33,3 @@ For Vercel, import the repository and deploy as a static site.
 ## Note
 
 The portfolio describes the BimaKavach work using the metrics and responsibilities present in the supplied CV. The three product screenshots are the screenshots supplied by the user.
-# portfolio
